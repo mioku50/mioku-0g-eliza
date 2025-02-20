@@ -1,0 +1,5 @@
+echo '{
+    "type": "Eliza Character",
+    "metadata": "Test Character Description"
+  }' > ./data/character_description.json
+  
