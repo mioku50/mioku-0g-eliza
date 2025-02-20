@@ -1,7 +1,7 @@
 echo '{
- "name": "Test Agent",
-    "description": "AI-powered NFT agent",
-    "image": "https://bafkreihbfl4fl74if3n3tvctnkndkf46gvu3f3t5nop6q6327k4b3eel64.ipfs.flk-ipfs.xyz/"
+ "name": "",
+    "description": "",
+    "image": ""
     "attributes": {
       "intelligence": 90,
       "creativity": 85,
