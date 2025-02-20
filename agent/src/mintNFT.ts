@@ -15,7 +15,7 @@ const contractAddress = process.env.ZEROG_NFT_CONTRACT_ADDRESS;
 const agentNFT = AgentNFT__factory.connect(contractAddress, signer);
 
 // 🔍 Укажи root hash загруженного в 0G Storage
-const proofs = ["0xadffb06cd60dc8faeece9c07705513dd890a3c6414d03bd4ba846a609902c764"];
+const proofs = [""];
 
 // Загружаем описание данных из файла
 const dataDescriptions = [fs.readFileSync("./data/character_description.json", "utf8")];
